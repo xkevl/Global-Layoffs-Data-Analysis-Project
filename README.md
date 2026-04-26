@@ -46,6 +46,7 @@ Key Questions Answered:
 - `JOIN` for data validation
 - `SUM` and `MAX` for aggregations
 - `ROW_NUMBER`, `RANK`, and `DENSE_RANK` for window functions
+- `DATE-FORMAT` for time-based analysis
 - CTEs
 
 ---
