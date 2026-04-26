@@ -70,7 +70,7 @@ After EDA:
 - The consumer and retail industry had the most layoffs from 2020-03-11 to 2023-03-06 with 45182 and 43613 layoffs respectively.
 - In 2020 Uber, Booking.com, Groupon, and Airbnb were part of the top 5 companies with the most layoffs. COVID made it so transportation, travel, and going outside in general were kept to a minimum.
 - In 2023 the technology sector took a massive hit in layoffs with companies like Google, Microsoft, and Amazon being part of the top 5.
-- Companies TikTok India, Grover, and N26 were the top 3 companies that maximized profits while keeping layoffs low.
+- TikTok India, Grover, and N26 were the top 3 companies that maximized profits while keeping layoffs low.
 
 ---
 
