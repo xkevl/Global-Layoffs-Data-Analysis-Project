@@ -1,4 +1,4 @@
-# Data Cleaning Project
+# Global Layoffs Data Analysis Project
 
 ## Overview
 This project analyzes global layoff data using SQL to uncover trends across companies, industries, and time. The workflow includes data cleaning, transformation, exploratory data analysis (EDA) to generate actionable business insights, and creating an interactive tableau dashboard to visualize layoff trends and company performance.
