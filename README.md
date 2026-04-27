@@ -19,7 +19,7 @@ This project analyzes global layoff data using SQL to uncover trends across comp
 
 /tableau
 
--global layoffs dashboard.twbx
+- global layoffs dashboard.twbx
 - dashboard_screenshot.png
 
 ---
